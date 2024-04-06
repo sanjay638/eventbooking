@@ -1,0 +1,32 @@
+{
+  "buses": [
+    {
+      "busno": "1",
+      "source": "A",
+      "destination": "A1",
+      "seats": "12",
+      "id": 1
+    },
+    {
+      "busno": "2",
+      "source": "A",
+      "destination": "A1",
+      "seats": "12",
+      "id": 2
+    },
+    {
+      "busno": "19",
+      "source": "TPT",
+      "destination": "TPT",
+      "seats": "57",
+      "id": 4
+    },
+    {
+      "busno": "12",
+      "source": "A2",
+      "destination": "Ban",
+      "seats": "13",
+      "id": 5
+    }
+  ]
+}
